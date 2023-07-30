@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  padding: 20px;
+  background-color: darkslategrey;
+}
+
+button {
+  margin-bottom: 20px;
+  border-radius: 1em;
+  padding: 0.5em;
+}
+
+button:hover {
+  background-color: brown;
+  cursor: pointer;
+}
+
+
+
+p {
+  color: aliceblue;
+}
+
+img {
+  width: max-content;
+  height: 200px;
+
+  border: 3px solid rgb(229, 221, 221);
+
+
+  border-radius: 20%;
+  margin-bottom: 10px;
+
+}
